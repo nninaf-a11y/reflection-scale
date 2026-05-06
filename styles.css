@@ -11,7 +11,7 @@
 }
 *{box-sizing:border-box;margin:0;padding:0}
 html,body{background:transparent;color:var(--ink);font-family:'Montserrat',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
-.reflection {padding: 0 !important; background: transparent !important;}
+.reflection {background: var(--cream) !important; padding: 20px; border-radius: 6px;}
 .intro{text-align:center;margin-bottom:28px}
 .eyebrow{display:inline-block;font-size:11px;letter-spacing:.32em;color:var(--gold);text-transform:uppercase;font-weight:500;margin-bottom:10px}
 .intro h1{font-weight:300;font-size:30px;letter-spacing:.04em;color:var(--navy)}
